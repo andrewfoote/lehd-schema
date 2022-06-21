@@ -1,4 +1,4 @@
-institution,label,city,institution_state,inst_level,statefips
+﻿institution,label,city,institution_state,inst_level,statefips
 1,Institutions in New England Division,,,D,
 2,Institutions in Middle Atlantic Division,,,D,
 3,Institutions in East North Central Division,,,D,
@@ -6758,7 +6758,7 @@ institution,label,city,institution_state,inst_level,statefips
 00187200,Swstrn Iowa Area Community College South,Keokuk,IA,I,19
 00187300,Loras College,Dubuque,IA,I,19
 00187400,Luther College,Decorah,IA,I,19
-00187500,Marshalltown Community College,Marshalltown,IA,I,19
+00187500,Iowa Valley Community College District,Marshalltown,IA,I,19
 00187501,Marshalltown Community College - Iowa Valley Community College,Marshalltown,IA,I,19
 00187502,Marshalltown Community College - Grinnell Center,Grinnell,IA,I,19
 00187600,Marycrest International University,Davenport,IA,I,19
@@ -21644,7 +21644,7 @@ institution,label,city,institution_state,inst_level,statefips
 00407290,Northwood University - Delta College & Planetarium & Learning Center,Bay City,MI,I,26
 00407300,Aquinas College at Milton,Milton,MA,I,25
 00407400,Eastern Iowa Community College Scott Campus,Davenport,IA,I,19
-00407500,Eastern Iowa Community College District,Davenport,IA,I,19
+00407500,Eastern Iowa Community Colleges,Davenport,IA,I,19
 00407501,Eastern Iowa Community College District - Clinton Community College,Clinton,IA,I,19
 00407502,Eastern Iowa Community College District - Muscatine Community College,Muscatine,IA,I,19
 00407503,Eastern Iowa Community College - Scott Community College,Bettendorf,IA,I,19
@@ -22239,7 +22239,7 @@ institution,label,city,institution_state,inst_level,statefips
 00459506,Hawkeye Community College - Van G Miller Adult Learning Center,Waterloo,IA,I,19
 00459600,Iowa Technical Institute,Ottumwa,IA,I,19
 00459700,Iowa Central Community College Central Office,Fort Dodge,IA,I,19
-00459800,Iowa Western Community College - Council Bluffs,Council Bluffs,IA,I,19
+00459800,Iowa Western Community College,Council Bluffs,IA,I,19
 00459801,Iowa Western Community College - Clarinda Campus,Clarinda,IA,I,19
 00459802,Iowa Western Community College - Harlan Campus,Harlan,IA,I,19
 00459803,Iowa Western Community College - Atlantic Campus,Atlantic,IA,I,19
@@ -24096,7 +24096,7 @@ institution,label,city,institution_state,inst_level,statefips
 00554500,Weymouth Vocational Technical High School,East Weymouth,MA,I,25
 00554600,Worcester Technical Institute,Worcester,MA,I,25
 00554700,Waltham Vocational High School,Waltham,MA,I,25
-00554900,Springfield Trade & Technical Institute,Springfield,MA,I,25
+00554900,Springfield Technical Community College,Springfield,MA,I,25
 00555100,Quincy Public Schools,Quincy,MA,I,25
 00555300,Plymouth Vocational School,Plymouth,MA,I,25
 00555400,Pittsfield Vocational School,Pittsfield,MA,I,25
@@ -32633,7 +32633,7 @@ institution,label,city,institution_state,inst_level,statefips
 01120500,Neely Business College,Meridian,MS,I,28
 01120600,Pioneer Technology Center,Ponca City,OK,I,40
 01120900,Krainz Woods Academy of Medical Laboratory TechnologyOLOGY,Detroit,MI,I,26
-01121000,Bunker Hill Community College-,Boston,MA,I,25
+01121000,Bunker Hill Community College,Boston,MA,I,25
 01121001,Bunker Hill Community College - Chelsea,Chelsea,MA,I,25
 01121002,Bunker Hill Community College - Malden High School,Malden,MA,I,25
 01121300,Univ of Antioquia,Columbia,,I,
