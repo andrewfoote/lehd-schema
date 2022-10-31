@@ -115,7 +115,8 @@ include::naming_type.csv[]
 
 The geohi component in *filenames* is based on one of two possible code sets:
 
-- the lower-case alphabetic FIPS or postal state code based on https://catalog.data.gov/dataset/fips-state-codes[FIPS PUB 5-2] (see also link:label_stusps.csv[] for upper-case variants).
+- the lower-case alphabetic FIPS or postal state code based on https://www.census.gov/library/reference/code-lists/ansi.html#state[State and State Equivalents - National FIPS and GNIS Codes File] (see
+also link:label_stusps.csv[]).
 - the numeric CBSA code corresponding to the metropolitan areas (see link:label_geography_metro.csv[])
 - It is expanded to encompass additional codes denoting national coverage, or a collection of states.
 
