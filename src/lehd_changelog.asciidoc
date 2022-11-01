@@ -6,6 +6,7 @@
 :numbered:
 :toclevels: 1
 :sectnumlevels: 0
+:docinfo: shared
 
 [NOTE]
 .Contact Us

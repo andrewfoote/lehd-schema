@@ -2,6 +2,10 @@
 
 This document describes any non-standard features of the build system.
 
+## Tracking
+Adding the adobe tracking information to the schema is done through [docinfo](https://docs.asciidoctor.org/asciidoc/latest/docinfo/) files. 
+Additional scripts can be added to the `docinfo.html` file in the which will be included in the generated HTML.
+
 ## Asciidoctor Extensions
 
 ### CsvSubcolumnIncludeProcessor
