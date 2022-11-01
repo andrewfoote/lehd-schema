@@ -1,12 +1,9 @@
 name: Broken Link Check
+
 on:
   push:
     branches:
       - main
-
-  schedule:
-    - cron: 0 0 1 * * # run monthly
-
 jobs:
   broken_link_checker_job:
     runs-on: ubuntu-latest
