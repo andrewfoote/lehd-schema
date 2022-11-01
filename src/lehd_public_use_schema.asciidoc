@@ -900,7 +900,7 @@ The reference region will always be either the origin or the destination.
 National tabulations contain records where both origin and destination are <<Geographic Levels,geo_level>>=N; state tabulations contain records where <<Geographic Levels,geo_level>> in (N,S); metro tabulations contain records where <<Geographic Levels,geo_level>> in (N,S,B).
 Data may be suppressed for certain combinations of regions and quarters because the estimates do not meet Census Bureau publication standards.
 
-A consolidated availability table across national, state, and metro aggregations is provided along with national data in *j2jod_all_avail.csv*. 
+A consolidated J2JOD availability table across national, state, and metro aggregations can be found in the https://lehd.ces.census.gov/data/j2j/latest_release/j2jod_all_avail.csv.gz[j2jod_all_avail] file. 
 
 === [[metadatalags]]Metadata on Indicator Availability
 
