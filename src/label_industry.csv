@@ -2,7 +2,7 @@
 00,"All NAICS Sectors",A
 000,"All NAICS Subsectors",A
 0000,"All NAICS Industry Groups",A
-11,"Agriculture, Forestry, Fishing and Hunting",2
+11,"Agriculture, Forestry, Fishing and Hunting",S
 111,"Crop Production",3
 1111,"Oilseed and Grain Farming",4
 1112,"Vegetable and Melon Farming",4
@@ -27,7 +27,7 @@
 1151,"Support Activities for Crop Production",4
 1152,"Support Activities for Animal Production",4
 1153,"Support Activities for Forestry",4
-21,"Mining, Quarrying, and Oil and Gas Extraction",2
+21,"Mining, Quarrying, and Oil and Gas Extraction",S
 211,"Oil and Gas Extraction",3
 2111,"Oil and Gas Extraction",4
 212,"Mining (except Oil and Gas)",3
@@ -36,12 +36,12 @@
 2123,"Nonmetallic Mineral Mining and Quarrying",4
 213,"Support Activities for Mining",3
 2131,"Support Activities for Mining",4
-22,"Utilities",2
+22,"Utilities",S
 221,"Utilities",3
 2211,"Electric Power Generation, Transmission and Distribution",4
 2212,"Natural Gas Distribution",4
 2213,"Water, Sewage and Other Systems",4
-23,"Construction",2
+23,"Construction",S
 236,"Construction of Buildings",3
 2361,"Residential Building Construction",4
 2362,"Nonresidential Building Construction",4
@@ -55,7 +55,7 @@
 2382,"Building Equipment Contractors",4
 2383,"Building Finishing Contractors",4
 2389,"Other Specialty Trade Contractors",4
-31-33,"Manufacturing",2
+31-33,"Manufacturing",S
 311,"Food Manufacturing",3
 3111,"Animal Food Manufacturing",4
 3112,"Grain and Oilseed Milling",4
@@ -163,7 +163,7 @@
 339,"Miscellaneous Manufacturing",3
 3391,"Medical Equipment and Supplies Manufacturing",4
 3399,"Other Miscellaneous Manufacturing",4
-42,"Wholesale Trade",2
+42,"Wholesale Trade",S
 423,"Merchant Wholesalers, Durable Goods",3
 4231,"Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers",4
 4232,"Furniture and Home Furnishing Merchant Wholesalers",4
@@ -184,49 +184,43 @@
 4247,"Petroleum and Petroleum Products Merchant Wholesalers",4
 4248,"Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers",4
 4249,"Miscellaneous Nondurable Goods Merchant Wholesalers",4
-425,"Wholesale Electronic Markets and Agents and Brokers",3
-4251,"Wholesale Electronic Markets and Agents and Brokers",4
-44-45,"Retail Trade",2
+425,"Wholesale Trade Agents and Brokers",3
+4251,"Wholesale Trade Agents and Brokers",4
+44-45,"Retail Trade",S
 441,"Motor Vehicle and Parts Dealers",3
 4411,"Automobile Dealers",4
 4412,"Other Motor Vehicle Dealers",4
-4413,"Automotive Parts, Accessories, and Tire Stores",4
-442,"Furniture and Home Furnishings Stores",3
-4421,"Furniture Stores",4
-4422,"Home Furnishings Stores",4
-443,"Electronics and Appliance Stores",3
-4431,"Electronics and Appliance Stores",4
+4413,"Automotive Parts, Accessories, and Tire Retailers",4
 444,"Building Material and Garden Equipment and Supplies Dealers",3
 4441,"Building Material and Supplies Dealers",4
-4442,"Lawn and Garden Equipment and Supplies Stores",4
-445,"Food and Beverage Stores",3
-4451,"Grocery Stores",4
-4452,"Specialty Food Stores",4
-4453,"Beer, Wine, and Liquor Stores",4
-446,"Health and Personal Care Stores",3
-4461,"Health and Personal Care Stores",4
-447,"Gasoline Stations",3
-4471,"Gasoline Stations",4
-448,"Clothing and Clothing Accessories Stores",3
-4481,"Clothing Stores",4
-4482,"Shoe Stores",4
-4483,"Jewelry, Luggage, and Leather Goods Stores",4
-451,"Sporting Goods, Hobby, Musical Instrument, and Book Stores",3
-4511,"Sporting Goods, Hobby, and Musical Instrument Stores",4
-4512,"Book Stores and News Dealers",4
-452,"General Merchandise Stores",3
-4522,"Department Stores",4
-4523,"General Merchandise Stores, including Warehouse Clubs and Supercenters",4
-453,"Miscellaneous Store Retailers",3
-4531,"Florists",4
-4532,"Office Supplies, Stationery, and Gift Stores",4
-4533,"Used Merchandise Stores",4
-4539,"Other Miscellaneous Store Retailers",4
-454,"Nonstore Retailers",3
-4541,"Electronic Shopping and Mail-Order Houses",4
-4542,"Vending Machine Operators",4
-4543,"Direct Selling Establishments",4
-48-49,"Transportation and Warehousing",2
+4442,"Lawn and Garden Equipment and Supplies Retailers",4
+445,"Food and Beverage Retailers",3
+4451,"Grocery and Convenience Retailers",4
+4452,"Specialty Food Retailers",4
+4453,"Beer, Wine, and Liquor Retailers",4
+449,"Furniture, Home Furnishings, Electronics, and Appliance Retailers",3
+4491,"Furniture and Home Furnishings Retailers",4
+4492,"Electronics and Appliance Retailers",4
+455,"General Merchandise Retailers",3
+4551,"Department Stores",4
+4552,"Warehouse Clubs, Supercenters, and Other General Merchandise Retailers",4
+456,"Health and Personal Care Retailers",3
+4561,"Health and Personal Care Retailers",4
+457,"Gasoline Stations and Fuel Dealers",3
+4571,"Gasoline Stations",4
+4572,"Fuel Dealers",4
+458,"Clothing, Clothing Accessories, Shoe, and Jewelry Retailers",3
+4581,"Clothing and Clothing Accessories Retailers",4
+4582,"Shoe Retailers",4
+4583,"Jewelry, Luggage, and Leather Goods Retailers",4
+459,"Sporting Goods, Hobby, Musical Instrument, Book, and Miscellaneous Retailers",3
+4591,"Sporting Goods, Hobby, and Musical Instrument Retailers",4
+4592,"Book Retailers and News Dealers",4
+4593,"Florists",4
+4594,"Office Supplies, Stationery, and Gift Retailers",4
+4595,"Used Merchandise Retailers",4
+4599,"Other Miscellaneous Retailers",4
+48-49,"Transportation and Warehousing",S
 481,"Air Transportation",3
 4811,"Scheduled Air Transportation",4
 4812,"Nonscheduled Air Transportation",4
@@ -267,25 +261,25 @@
 4922,"Local Messengers and Local Delivery",4
 493,"Warehousing and Storage",3
 4931,"Warehousing and Storage",4
-51,"Information",2
-511,"Publishing Industries (except Internet)",3
-5111,"Newspaper, Periodical, Book, and Directory Publishers",4
-5112,"Software Publishers",4
+51,"Information",S
 512,"Motion Picture and Sound Recording Industries",3
 5121,"Motion Picture and Video Industries",4
 5122,"Sound Recording Industries",4
-515,"Broadcasting (except Internet)",3
-5151,"Radio and Television Broadcasting",4
-5152,"Cable and Other Subscription Programming",4
+513,"Publishing Industries",3
+5131,"Newspaper, Periodical, Book, and Directory Publishers",4
+5132,"Software Publishers",4
+516,"Broadcasting and Content Providers",3
+5161,"Radio and Television Broadcasting Stations",4
+5162,"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",4
 517,"Telecommunications",3
-5173,"Wired and Wireless Telecommunications Carriers",4
+5171,"Wired and Wireless Telecommunications (except Satellite)",4
 5174,"Satellite Telecommunications",4
-5179,"Other Telecommunications",4
-518,"Data Processing, Hosting, and Related Services",3
-5182,"Data Processing, Hosting, and Related Services",4
-519,"Other Information Services",3
-5191,"Other Information Services",4
-52,"Finance and Insurance",2
+5178,"All Other Telecommunications",4
+518,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",3
+5182,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",4
+519,"Web Search Portals, Libraries, Archives, and Other Information Services",3
+5192,"Web Search Portals, Libraries, Archives, and Other Information Services",4
+52,"Finance and Insurance",S
 521,"Monetary Authorities-Central Bank",3
 5211,"Monetary Authorities-Central Bank",4
 522,"Credit Intermediation and Related Activities",3
@@ -302,7 +296,7 @@
 525,"Funds, Trusts, and Other Financial Vehicles",3
 5251,"Insurance and Employee Benefit Funds",4
 5259,"Other Investment Pools and Funds",4
-53,"Real Estate and Rental and Leasing",2
+53,"Real Estate and Rental and Leasing",S
 531,"Real Estate",3
 5311,"Lessors of Real Estate",4
 5312,"Offices of Real Estate Agents and Brokers",4
@@ -314,7 +308,7 @@
 5324,"Commercial and Industrial Machinery and Equipment Rental and Leasing",4
 533,"Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)",3
 5331,"Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)",4
-54,"Professional, Scientific, and Technical Services",2
+54,"Professional, Scientific, and Technical Services",S
 541,"Professional, Scientific, and Technical Services",3
 5411,"Legal Services",4
 5412,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",4
@@ -325,10 +319,10 @@
 5417,"Scientific Research and Development Services",4
 5418,"Advertising, Public Relations, and Related Services",4
 5419,"Other Professional, Scientific, and Technical Services",4
-55,"Management of Companies and Enterprises",2
+55,"Management of Companies and Enterprises",S
 551,"Management of Companies and Enterprises",3
 5511,"Management of Companies and Enterprises",4
-56,"Administrative and Support and Waste Management and Remediation Services",2
+56,"Administrative and Support and Waste Management and Remediation Services",S
 561,"Administrative and Support Services",3
 5611,"Office Administrative Services",4
 5612,"Facilities Support Services",4
@@ -342,7 +336,7 @@
 5621,"Waste Collection",4
 5622,"Waste Treatment and Disposal",4
 5629,"Remediation and Other Waste Management Services",4
-61,"Educational Services",2
+61,"Educational Services",S
 611,"Educational Services",3
 6111,"Elementary and Secondary Schools",4
 6112,"Junior Colleges",4
@@ -351,7 +345,7 @@
 6115,"Technical and Trade Schools",4
 6116,"Other Schools and Instruction",4
 6117,"Educational Support Services",4
-62,"Health Care and Social Assistance",2
+62,"Health Care and Social Assistance",S
 621,"Ambulatory Health Care Services",3
 6211,"Offices of Physicians",4
 6212,"Offices of Dentists",4
@@ -373,8 +367,8 @@
 6241,"Individual and Family Services",4
 6242,"Community Food and Housing, and Emergency and Other Relief Services",4
 6243,"Vocational Rehabilitation Services",4
-6244,"Child Day Care Services",4
-71,"Arts, Entertainment, and Recreation",2
+6244,"Child Care Services",4
+71,"Arts, Entertainment, and Recreation",S
 711,"Performing Arts, Spectator Sports, and Related Industries",3
 7111,"Performing Arts Companies",4
 7112,"Spectator Sports",4
@@ -387,7 +381,7 @@
 7131,"Amusement Parks and Arcades",4
 7132,"Gambling Industries",4
 7139,"Other Amusement and Recreation Industries",4
-72,"Accommodation and Food Services",2
+72,"Accommodation and Food Services",S
 721,"Accommodation",3
 7211,"Traveler Accommodation",4
 7212,"RV (Recreational Vehicle) Parks and Recreational Camps",4
@@ -396,7 +390,7 @@
 7223,"Special Food Services",4
 7224,"Drinking Places (Alcoholic Beverages)",4
 7225,"Restaurants and Other Eating Places",4
-81,"Other Services (except Public Administration)",2
+81,"Other Services (except Public Administration)",S
 811,"Repair and Maintenance",3
 8111,"Automotive Repair and Maintenance",4
 8112,"Electronic and Precision Equipment Repair and Maintenance",4
@@ -415,7 +409,7 @@
 8139,"Business, Professional, Labor, Political, and Similar Organizations",4
 814,"Private Households",3
 8141,"Private Households",4
-92,"Public Administration",2
+92,"Public Administration",S
 921,"Executive, Legislative, and Other General Government Support",3
 9211,"Executive, Legislative, and Other General Government Support",4
 922,"Justice, Public Order, and Safety Activities",3
