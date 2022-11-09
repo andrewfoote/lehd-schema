@@ -155,7 +155,7 @@ The taxonomy for these concepts has not been finalized yet, see link:label_conce
 
 
 // tag::variables_qwi[]
-==== National QWI and State-Level QWI ====
+==== QWI Counts (QWI) ====
 
 ( link:variables_qwi.csv[variables_qwi.csv] )
 
@@ -168,7 +168,7 @@ include::variables_qwi.csv[]
 <<<
 
 // tag::variables_qwir[]
-==== National QWI and State-Level QWI Rates ====
+==== QWI Rates (QWIR) ====
 
 Rates are computed from published data, and are provided as a convenience.
 
@@ -182,7 +182,7 @@ include::variables_qwir.csv[]
 
 <<<
 
-==== Job-to-Job Flow Counts (J2J)
+==== J2J Counts (J2J) ====
 
 ( link:variables_j2j.csv[] )
 
@@ -193,7 +193,7 @@ include::variables_j2j.csv[]
 
 <<<
 
-==== Job-to-Job Flow Rates (J2JR)
+==== J2J Rates (J2JR) ====
 
 ( link:variables_j2jr.csv[] )
 
@@ -206,7 +206,7 @@ include::variables_j2jr.csv[]
 
 <<<
 
-==== Job-to-Job Flow Origin-Destination (J2JOD)
+==== J2J Flow Origin-Destination (J2JOD) ====
 
 ( link:variables_j2jod.csv[] )
 
@@ -217,7 +217,7 @@ include::variables_j2jod.csv[]
 
 <<<
 
-==== Post-Secondary Employment Outcomes Earnings (PSEOE)
+==== PSEO Earnings (PSEOE) ====
 
 ( link:variables_pseoe.csv[] )
 
@@ -228,7 +228,7 @@ include::variables_pseoe.csv[columns=1;3;5..7;]
 
 <<<
 
-==== Post-Secondary Employment Outcomes Flows (PSEOF)
+==== PSEO Flows (PSEOF) ====
 
 ( link:variables_pseof.csv[] )
 
@@ -303,7 +303,7 @@ In the tables below, only a sample of variability measures are printed, but the 
 
 <<<
 
-==== Variability Measures for QWI (National-level only) ====
+==== Variability Measures for QWI (QWIV) - National-level only ====
 
 ( link:variables_qwiv.csv[variables_qwiv.csv] )
 
@@ -324,7 +324,7 @@ include::variables_qwiv.csv[lines=167..169;,columns=1;3..4;]
 
 <<<
 
-==== Variability Measures for QWI Rates (National-level only) ====
+==== Variability Measures for QWI Rates (QWIRV) - National-level ====
 
 ( link:variables_qwirv.csv[variables_qwirv.csv] )
 
