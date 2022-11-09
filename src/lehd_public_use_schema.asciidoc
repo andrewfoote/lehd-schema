@@ -303,7 +303,7 @@ In the tables below, only a sample of variability measures are printed, but the 
 
 <<<
 
-==== Variability Measures for QWI (QWIV) - National-level only ====
+==== Variability Measures for QWI (QWIV) - National-level Only ====
 
 ( link:variables_qwiv.csv[variables_qwiv.csv] )
 
@@ -324,7 +324,7 @@ include::variables_qwiv.csv[lines=167..169;,columns=1;3..4;]
 
 <<<
 
-==== Variability Measures for QWI Rates (QWIRV) - National-level ====
+==== Variability Measures for QWI Rates (QWIRV) - National-level Only ====
 
 ( link:variables_qwirv.csv[variables_qwirv.csv] )
 
