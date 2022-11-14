@@ -20,7 +20,7 @@ The public-use data from the Longitudinal Employer-Household Dynamics (LEHD) Pro
 
 * Quarterly Workforce Indicators (QWI)
 * Job-to-Job Flows (J2J)
-* Post-Graduate Employment Outcomes (PSEO)
+* Post-Secondary Employment Outcomes (PSEO)
 
 These data are available through the LEHD website’s Data page at
 https://lehd.ces.census.gov/data/ (QWI, J2J, PSEO) and through the LED Extraction Tool at https://ledextract.ces.census.gov/ (QWI, J2J).
