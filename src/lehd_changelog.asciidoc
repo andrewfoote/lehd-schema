@@ -15,6 +15,11 @@ Feedback is welcome.
 Please write us at link:mailto:ces.qwi.feedback@census.gov?subject=LEHD_Schema[ces.qwi.feedback@census.gov].
 ==============================================
 
+== V4.11.0-draft
+
+- 2023 geography label files including Connecticut Councils of Governments (COGs)
+- New aggregation level labels
+
 == V4.10.1
 
 - Corrections to select institution labels
