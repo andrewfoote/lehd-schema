@@ -71,12 +71,14 @@
 4211020,"Altoona, PA",M
 4214100,"Bloomsburg-Berwick, PA",M
 4214620,"Bradford, PA",M
-4216540,"Chambersburg-Waynesboro, PA",M
+4216540,"Chambersburg, PA",M
 4220180,"DuBois, PA",M
 4220700,"East Stroudsburg, PA",M
 4221500,"Erie, PA",M
 4223900,"Gettysburg, PA",M
 4225420,"Harrisburg-Carlisle, PA",M
+4225770,"Hemlock Farms, PA",M
+4225850,"Hermitage, PA",M
 4226500,"Huntingdon, PA",M
 4226860,"Indiana, PA",M
 4227780,"Johnstown, PA",M
@@ -86,8 +88,6 @@
 4230380,"Lewistown, PA",M
 4230820,"Lock Haven, PA",M
 4232740,"Meadville, PA",M
-4235260,"New Castle, PA",M
-4235620,"New York-Newark-Jersey City, NY-NJ-PA (PA part)",M
 4236340,"Oil City, PA",M
 4237980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (PA part)",M
 4238300,"Pittsburgh, PA",M
@@ -103,7 +103,6 @@
 4247620,"Warren, PA",M
 4248700,"Williamsport, PA",M
 4249620,"York-Hanover, PA",M
-4249660,"Youngstown-Warren-Boardman, OH-PA (PA part)",M
 4299999,"Nonmetropolitan, nonmicropolitan, PA",M
 420CE175,"175 Central PA WIA",W
 420LV070,"070 Lehigh Valley WIA",W
