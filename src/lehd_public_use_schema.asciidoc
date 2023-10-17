@@ -838,23 +838,28 @@ The contents contain the following elements:
 include::variables_version.csv[]
 |===================================================
 
-For instance, the metadata for the R2021Q2 QWI release of Delaware (example https://lehd.ces.census.gov/data/qwi/latest_release/de/version_qwi.txt[here]) has the following content:
+For instance, metadata for a QWI release of Delaware (example https://lehd.ces.census.gov/data/qwi/latest_release/de/version_qwi.txt[here]) has the following content:
 
 --------------------------------
-
-
-QWI_F DE 10 1998:3-2020:3 V4.8.0 R2021Q2 qwipu_de_20210729_1826
-QWI_FA DE 10 1998:3-2020:2 V4.8.0 R2021Q2 qwipu_de_20210729_1826
-QWI_FS DE 10 1998:3-2020:2 V4.8.0 R2021Q2 qwipu_de_20210729_1826
+QWI_F DE 10 1998:3-2022:4 V4.10.0 R2023Q3 qwipu_de_20230717_0730
+QWI_FA DE 10 1998:3-2022:3 V4.10.0 R2023Q3 qwipu_de_20230717_0730
+QWI_FS DE 10 1998:3-2022:3 V4.10.0 R2023Q3 qwipu_de_20230717_0730
 --------------------------------
 
-Similarly, the metadata for the R2021Q2 J2J release of Delaware (example https://lehd.ces.census.gov/data/j2j/latest_release/de/j2j/version_j2j.txt[here]) has the following content:
+Similarly, metadata for a J2J release of Delaware (example https://lehd.ces.census.gov/data/j2j/latest_release/de/j2j/version_j2j.txt[here]) has the following content:
 
 --------------------------------
-J2J DE 10 2000:2-2020:2 V4.7.0 R2021Q2 j2jpu_de_20210624_2130
+J2J DE 10 2000:2-2022:3 V4.10.0 R2023Q3 j2jpu_de_20230911_1751
 --------------------------------
 
-Some J2J metadata may contain multiple lines, as necessary.
+Metadata for a J2J release of metropolitan areas contain multiple entries (example https://lehd.ces.census.gov/data/j2j/latest_release/metro/j2j/version_j2j.txt[here])
+
+--------------------------------
+J2J METRO 01999 2001:2-2022:3 V4.10.0 R2023Q3 j2jpu_us_20230913_0711
+J2J METRO 02999 2001:2-2016:1 V4.10.0 R2023Q3 j2jpu_us_20230913_0711
+J2J METRO 04999 2004:2-2022:3 V4.10.0 R2023Q3 j2jpu_us_20230913_0711
+...
+--------------------------------
 
 The PSEO metadata will contain separate lines for the PSEOE and PSEOF tables.
 The year range for PSEO tables is based on the <<Grad Cohort>>, the start year of the graduation cohort.
