@@ -745,7 +745,12 @@ The following variables are included in the link:label_agg_level_pseo.csv[] file
 
 [width="60%",format="csv",cols="<2,<5",options="header"]
 |===================================================
-Variable,Description agg_level_pseo, index representing level of aggregation reported on a given record grad_char,Characteristics of graduate and program firm_char,Characteristics of place of employment pseoe,Flag: aggregation level available on PSEO Earnings pseof,Flag: aggregation level available on PSEO Flows
+Variable,Description 
+agg_level_pseo, index representing level of aggregation reported on a given record 
+grad_char,Characteristics of graduate and program 
+firm_char,Characteristics of place of employment 
+pseoe,Flag: aggregation level available on PSEO Earnings 
+pseof,Flag: aggregation level available on PSEO Flows
 |===================================================
 
 The characteristics available on an aggregation level are repeated using a series of flags following the standard schema:
