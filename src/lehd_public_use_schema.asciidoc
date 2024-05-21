@@ -919,6 +919,12 @@ include::variables_lags.csv[]
 Several additional files within each state release are included to provide information on the institutions within the scope of PSEO.
 The ALL directory consolidates the individual state files.
 
+* Online Institutions
+
+Online institutions without a natural home state are assigned *00* for the _inst_state_ variable and are placed in the 
+*us* directory in the public use distribution. National-level aggregations are not included in the PSEO data product 
+at this time.
+
 ==== PSEO Data Partners and Coverage (pseo_[ST]_partners.txt)
 
 This file contains information on PSEO coverage of graduates, as well as the partner organization(s) providing data.
