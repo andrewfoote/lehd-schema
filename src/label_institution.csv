@@ -4479,21 +4479,21 @@
 00164600,Chicago Academy of Fine Arts,Chicago,IL,I,17
 00164700,City Colleges of Chicago System Office,Chicago,IL,I,17
 00164701,City Colleges of Chicago System Office - Richard J Daley College,Chicago,IL,I,17
-00164800,City Colleges of Chicago Harry S Truman College,Chicago,IL,I,17
-00164900,Richard J Daley College-City Colleges of Chicago,Chicago,IL,I,17
+00164800,City Colleges of Chicago - Harry S Truman College,Chicago,IL,I,17
+00164900,City Colleges of Chicago - Richard J. Daley College,Chicago,IL,I,17
 00164901,Richard J Daley College-City Colleges of Chicago -Arturo Velasquez Ins,Chicago,IL,I,17
 00164902,Richard J Daley College-City Colleges of Chicago,West Chicago,IL,I,17
 00165000,City Colleges of Chicago - Malcolm X College,Chicago,IL,I,17
 00165001,City Colleges of Chicago-Malcolm X College-Westside Learning Center,Chicago,IL,I,17
 00165100,City College of Chicago Fenge,Chicago,IL,I,17
-00165200,Harold Washington College,Chicago,IL,I,17
+00165200,City Colleges of Chicago - Harold Washington College,Chicago,IL,I,17
 00165201,Harold Washington College - Chicago Fire Department Training Academy,Chicago,IL,I,17
 00165202,Harold Washington College - Carole Robertson Center for Learning,Chicago,IL,I,17
 00165203,Harold Washington College - Robert Taylor Homes Hippy Program,Chicago,IL,I,17
 00165204,Harold Washington College - City Colleges of Chicago,D-55252 Mainz-Kastel,,I,
 00165205,Harold Washington College - DePaul University,Chicago,IL,I,17
 00165300,City College of Chicago Southeast,Chicago,IL,I,17
-00165400,City Colleges of Chicago - Kennedy King College,Chicago,IL,I,17
+00165400,City Colleges of Chicago - Kennedy-King College,Chicago,IL,I,17
 00165401,City Colleges of Chicago-Kennedy King College-Dawson Technical Institu,Chicago,IL,I,17
 00165402,City Colleges of Chicago - Washburne Culinary Institute,Chicago,IL,I,17
 00165403,City Colleges of Chicago - Kennedy King College - Washburne Culinary I,Chicago,IL,I,17
@@ -4503,7 +4503,7 @@
 00165407,City Colleges of Chicago - Kennedy King College - Washburne Culinary I,Chicago,IL,I,17
 00165408,City Colleges of Chicago - Kennedy King College - Dental Hygiene,Chicago,IL,I,17
 00165409,City Colleges of Chicago - Kennedy King College - French Pastry School,Chicago,IL,I,17
-00165500,Wilbur Wright College,Chicago,IL,I,17
+00165500,City Colleges of Chicago - Wilbur Wright College,Chicago,IL,I,17
 00165501,Wilbur Wright College - Humboldt Park Vocational Education Center,Chicago,IL,I,17
 00165700,Midwestern University,Downers Grove,IL,I,17
 00165701,Midwestern University-Glendale Campus,Glendale,AZ,I,04
@@ -5415,7 +5415,7 @@
 00174197,Olivet Nazarene University - Hoover School,Calumet City,IL,I,17
 00174198,Olivet Nazarene University - Indian Trail Elementary School,Frankfort,IL,I,17
 00174199,Olivet Nazarene University - Infant Of Prague School,Flossmoor,IL,I,17
-00174200,Illinois Eastern Community Colleges,Olney,IL,I,17
+00174200,Illinois Eastern Community Colleges - Olney Central College,Olney,IL,I,17
 00174201,Illinois Eastern Community Colleges - Frontier Community College,Fairfield,IL,I,17
 00174202,Illinois Eastern Community Colleges - Wabash Valley College,Mount Carmel,IL,I,17
 00174203,Illinois Eastern Community Colleges - Lincoln Trail College,Robinson,IL,I,17
@@ -5874,7 +5874,7 @@
 00176879,"Saint Xavier University - Gilbert, AZ",Gilbert,AZ,I,04
 00176880,Saint Xavier University - Rock Ridge Junior High School,Taylor Ridge,IL,I,17
 00176881,Saint Xavier University - Arlington Heights Township HS District 214,Arlington Heights,IL,I,17
-00176900,South Suburban College of Cook County,South Holland,IL,I,17
+00176900,South Suburban College,South Holland,IL,I,17
 00176901,South Suburban College of Cook County - Oak Forest Center,Oak Forest,IL,I,17
 00177000,Tolentine College,Olympia Fields,IL,I,17
 00177100,Trinity Christian College,Palos Heights,IL,I,17
@@ -20057,7 +20057,7 @@
 00380747,Mountain State University - West Virginia Junior College,Charleston,WV,I,54
 00380748,Mountain State University - West Virginia Business College,Wheeling,WV,I,54
 00380749,Mountain State University - West Virginia Junior College,Bridgeport,WV,I,54
-00380750,Mountain State University - Bluefield State University Res. & Dev. Corp,Bluefield,WV,I,54
+00380750,Mountain State University - Bluefield State University Res. & Dev. Cor,Bluefield,WV,I,54
 00380751,Mountain State University - HealthSouth,Morgantown,WV,I,54
 00380752,Mountain State University - New Horizons,Teays,WV,I,54
 00380753,Mountain State University - Med-Care Training Center,Cora,WV,I,54
@@ -21178,7 +21178,7 @@
 00395601,Dalton State College - DSC Gilmer County Center,Ellijay,GA,I,13
 00395900,Ravenswood Hospital Medical Center School of Nursing,Chicago,IL,I,17
 00396000,University of Illinois Chicago,Chicago,IL,I,17
-00396100,Harper College,Palatine,IL,I,17
+00396100,William Rainey Harper College,Palatine,IL,I,17
 00396101,Harper College - Harper Professional Center,Schaumburg,IL,I,17
 00396102,Harper College - Learning and Career Center,Prospect Heights,IL,I,17
 00396103,Harper College - Northwest Community Hospital,Arlington Heights,IL,I,17
@@ -25096,7 +25096,7 @@
 00665100,Saint Luke's Hospital School of Nursing,Racine,WI,I,55
 00665200,St Mary's Hospital Medical Center School of Nursing,Madison,WI,I,55
 00665400,University of San Diego Alcala Park,Alcala Park,CA,I,06
-00665600,College of Du Page,Glen Ellyn,IL,I,17
+00665600,College Of DuPage,Glen Ellyn,IL,I,17
 00665602,College of Du Page - Wellness & Massage Training Institute,Woodridge,IL,I,17
 00665603,College of Du Page - Health Education Center,West Chicago,IL,I,17
 00665604,College of Du Page - Central DuPage Hospital,Winfield,IL,I,17
@@ -29968,7 +29968,7 @@
 00976503,Three Rivers Community College - Mohegan Campus,Norwich,CT,I,09
 00976504,Three Rivers Community College - Corrigan-Radgowski Correctional Cente,Uncasville,CT,I,09
 00976505,Three Rivers Community College - York Correctional Institution,Niantic,CT,I,09
-00976700,Olive-Harvey College,Chicago,IL,I,17
+00976700,City Colleges of Chicago - Olive-Harvey College,Chicago,IL,I,17
 00976800,University of North Texas Health Science Center at Fort Worth,Fort Worth,TX,I,48
 00976900,Metropolitan College of New York,New York,NY,I,36
 00976901,Audrey Cohen College - College for Human Services California Division,Oakland,CA,I,06
@@ -30131,7 +30131,7 @@
 00989300,Community Hospital Roanoke Vy School of Radiologic-Technology,Roanoke,VA,I,51
 00989400,College of Fashion & Clothing Technology,England,,I,
 00989500,Albert Einstein College of Medicine,Bronx,NY,I,36
-00989600,Oakton Community College,Des Plaines,IL,I,17
+00989600,Oakton College,Des Plaines,IL,I,17
 00989601,Oakton Community College - The Ray Hartstein Campus,Skokie,IL,I,17
 00989602,Oakton Community College - Emergency Medical Tech Paramedic Cert,Skokie,IL,I,17
 00989603,Oakton Community College - St Francis School of Radiology,Evanston,IL,I,17
@@ -47741,7 +47741,7 @@
 03337300,PSC - School for Careers,Rego Park,NY,I,36
 03338300,NM Aveda Institute de Bellas Artes,Albuquerque,NM,I,35
 03339300,St. Stephen's University,St. Stephen,,I,
-03339400,Western Governors University,Salt Lake City,UT,I,49
+03339400,Western Governors University,Online College,US,I,00
 03339401,Western Governors University - Lowry Center,Aurora,CO,I,08
 03340300,Warren Woods Vocational Adult Education,Warren,MI,I,26
 03340301,Warren Woods Vocational Adult Education,Warren,MI,I,26
